@@ -1,2 +1,6 @@
-![image](https://github.com/ChelovekNeWerea25/ChelovekNeWerea25/assets/133495573/313e9ec5-59fa-48c6-a3d7-20853d779381)
-
+![](f)
+    <div class="wrap" style="width: 100%; width: 100%;text-align: center;">
+      <img 
+        src="https://kiev.itstep.org/dist/images/school/head/logo.png" 
+        class="photo">
+    </div>
