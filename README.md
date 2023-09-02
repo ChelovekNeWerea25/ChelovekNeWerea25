@@ -4,3 +4,4 @@
         src="https://kiev.itstep.org/dist/images/school/head/logo.png" 
         class="photo">
     </div>
+# Шкільний аккаунт
